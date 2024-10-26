@@ -1,3 +1,1 @@
-# all_practice_code
-
-fuck your mother
+this repositories is only used for practice
