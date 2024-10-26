@@ -1,3 +1,3 @@
 # all_practice_code
 
-²Ùµ°
+fuck your mother
