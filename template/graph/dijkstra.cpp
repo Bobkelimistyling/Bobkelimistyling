@@ -14,7 +14,7 @@ struct node {
     }
 };
 
-vector<vector<edge>> e(MAXN);
+vector<vector<edge>> e(MAXN);  
 int dis[MAXN], vis[MAXN];
 priority_queue<node, vector<node>, greater<node>> q;
 
