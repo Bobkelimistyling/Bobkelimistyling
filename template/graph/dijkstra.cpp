@@ -9,7 +9,6 @@ struct edge {
 
 struct node {
   int dis, u;
-
   bool operator>(const node& a) const { return dis > a.dis; }
 };
 
